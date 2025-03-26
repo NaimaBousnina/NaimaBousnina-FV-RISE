@@ -65,7 +65,7 @@ To perform the deletion and insetion processes, excute the `Inset_delete_metric`
   
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1JFl9lKw6Rj09yFzs9Y_Bu5b05yvr3vMB">
+<img src="https://drive.google.com/file/d/1XMnvVuUaD4S9zduuJW7RI-JM5LYBWA_p/view?usp=drive_link">
 
 </p>
 <figcaption align="center">Figure 4.1: Heat map explanations (red rectangle) for genuine pairs: True Acceptance (left) and False Rejections (right) face verification decision examples.
