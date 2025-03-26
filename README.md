@@ -78,7 +78,7 @@ To perform the deletion and insetion processes, excute the `Inset_delete_metric`
 ### 4.2   Impostors case: true rejections and false acceptances
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1QVgWLRAEXswlvhZnaTuhJjrxLGaXFkFg">
+<img src="https://drive.google.com/uc?export=view&id=9TZyZ8GngZRIA8XvRUGEW3uSiZQykVR3">
 </p>
 <figcaption align="center">Figure 4.2: Heat map explanations (red rectangle) for impostor pairs: True Rejections (left) and False Acceptance (right) face verification decision examples.
 
@@ -90,7 +90,7 @@ To perform the deletion and insetion processes, excute the `Inset_delete_metric`
 ### 4.3   Qualitative comparison of the FV-RISE method with four explainability benchmarks. 
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1owIjMExizyZh_k4GqyelRSE004G7OKAS">
+<img src="https://drive.google.com/uc?export=view&id=1tficP__S5ZdzJpDdNEU-wjv8L4BnMRGr">
 </p>
 
 <figcaption align="center">Figure 4.3: Facial S-HMs comparison for five face verification explainability approaches including four benchmarks.
@@ -99,7 +99,7 @@ To perform the deletion and insetion processes, excute the `Inset_delete_metric`
 ### 4.4   Quantitative comparison of the FV-RISE method with four explainability benchmarks. 
 
 <p align="center">
-<img src="https://drive.google.com/uc?export=view&id=1uQFss-7dTgVYIZJxK3rSWMONTxvDvq_W">
+<img src="https://drive.google.com/uc?export=view&id=1bSDIcd-tBvUEpOAF8lrxn8mwg_pS7Qs8">
 </p>
 
 <figcaption align="center">Figure 4.4: Recall versus percentage of manipulated pixels: deleted (left) and inserted pixels (right).
